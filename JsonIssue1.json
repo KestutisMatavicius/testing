@@ -1,8 +1,8 @@
 {
-    "url": "https://github.com/KestutisMatavicius/testing/blob/main/YamlIssue2.yml",
+    "url": "https://raw.githubusercontent.com/KestutisMatavicius/testing/main/YamlIssue2.yml",
     "urls": [
         {
-            "url": "https://github.com/KestutisMatavicius/testing/blob/main/YamlIssue2.yml",
+            "url": "https://raw.githubusercontent.com/KestutisMatavicius/testing/main/YamlIssue2.yml",
             "name": "Foo"
         }
     ]
